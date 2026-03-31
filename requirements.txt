@@ -1,0 +1,15 @@
+python-dotenv
+openai
+requests
+wikipedia
+
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+tavily-python
+langsmith
+wikipedia
+openpyxl
+pandas
+langchain_tavily
